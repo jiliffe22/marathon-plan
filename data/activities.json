@@ -1529,5 +1529,40 @@
       "id": "20761312207"
     }
   ],
-  "_synced_at": "2026-10-29T03:53:36Z"
+  "2026-10-29": [
+    {
+      "km": 38.4,
+      "type": "Ride",
+      "note": "38.4 km \u00b7 93 min \u00b7 NP 188 W",
+      "done": true,
+      "sport": "ride",
+      "mins": 93,
+      "watts": 173,
+      "np": 188,
+      "id": "20774965762"
+    },
+    {
+      "km": 31.1,
+      "type": "Ride",
+      "note": "31.1 km \u00b7 72 min \u00b7 NP 191 W",
+      "done": true,
+      "sport": "ride",
+      "mins": 72,
+      "watts": 173,
+      "np": 191,
+      "id": "20774900956"
+    },
+    {
+      "km": 2.9,
+      "type": "Ride",
+      "note": "2.9 km \u00b7 9 min \u00b7 NP 138 W",
+      "done": true,
+      "sport": "ride",
+      "mins": 9,
+      "watts": 134,
+      "np": 138,
+      "id": "20775303022"
+    }
+  ],
+  "_synced_at": "2026-10-29T10:39:06Z"
 }
