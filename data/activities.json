@@ -1776,7 +1776,27 @@
       "watts": 151,
       "np": 159,
       "id": "21014206526"
+    },
+    {
+      "km": 2.8,
+      "type": "Ride",
+      "note": "2.8 km \u00b7 7 min \u00b7 NP 165 W",
+      "done": true,
+      "sport": "ride",
+      "mins": 7,
+      "watts": 146,
+      "np": 165,
+      "id": "21017718630"
+    },
+    {
+      "km": 4.0,
+      "type": "Easy",
+      "note": "6:57/km",
+      "done": true,
+      "sport": "run",
+      "mins": 28,
+      "id": "21018423432"
     }
   ],
-  "_synced_at": "2026-11-17T06:01:26Z"
+  "_synced_at": "2026-11-17T16:37:10Z"
 }
