@@ -1530,26 +1530,6 @@
   ],
   "2026-11-02": [
     {
-      "km": 5.1,
-      "type": "Easy",
-      "note": "6:10/km",
-      "done": true,
-      "sport": "run",
-      "mins": 31,
-      "id": "20822585690"
-    },
-    {
-      "km": 4.8,
-      "type": "Ride",
-      "note": "4.8 km \u00b7 15 min \u00b7 NP 183 W",
-      "done": true,
-      "sport": "ride",
-      "mins": 15,
-      "watts": 138,
-      "np": 183,
-      "id": "20822879039"
-    },
-    {
       "km": 38.7,
       "type": "Ride",
       "note": "38.7 km \u00b7 88 min \u00b7 NP 188 W",
@@ -1850,5 +1830,5 @@
       "id": "21112662162"
     }
   ],
-  "_synced_at": "2026-11-24T23:42:24Z"
+  "_synced_at": "2026-11-25T06:30:17Z"
 }
